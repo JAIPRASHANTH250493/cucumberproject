@@ -14,6 +14,7 @@ public class string {
 		String bc="value from eclipse";
 String abc="new sting";
 String fourth="added fourth commit";
+String seven="seventh commit in eclipse";
 
 		//o/p="ewclmoe"
 
