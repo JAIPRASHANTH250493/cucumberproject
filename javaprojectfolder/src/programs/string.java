@@ -20,7 +20,7 @@ String fifth="added 5th commit";
 		char[] b=a.toCharArray();
 
 		for(int i=0;i<=6; i=i+2) {
-
+String new="inside for loop";
 			System.out.println(b[i]);
 
 			for(int j=1;j<=5; j=j+2) 
