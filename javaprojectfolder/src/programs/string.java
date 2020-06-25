@@ -10,11 +10,10 @@ public class string {
 		String a="welcome";
 		char temp = 0;
 		String swap="";
-<<<<<<< HEAD
+
 		String bc="value from eclipse";
-=======
-String abc="new sting
->>>>>>> refs/remotes/origin/master
+String abc="new sting";
+String fourth="added fourth commit";
 
 		//o/p="ewclmoe"
 
