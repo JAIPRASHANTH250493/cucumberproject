@@ -10,6 +10,7 @@ public class string {
 		String a="welcome";
 		char temp = 0;
 		String swap="";
+String abc="new sting
 
 		//o/p="ewclmoe"
 
