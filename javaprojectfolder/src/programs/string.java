@@ -10,7 +10,11 @@ public class string {
 		String a="welcome";
 		char temp = 0;
 		String swap="";
+<<<<<<< HEAD
 		String bc="value from eclipse";
+=======
+String abc="new sting
+>>>>>>> refs/remotes/origin/master
 
 		//o/p="ewclmoe"
 
