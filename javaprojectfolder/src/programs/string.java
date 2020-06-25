@@ -10,6 +10,7 @@ public class string {
 		String a="welcome";
 		char temp = 0;
 		String swap="";
+		String bc="value from eclipse";
 
 		//o/p="ewclmoe"
 
